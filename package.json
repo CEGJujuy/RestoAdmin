@@ -1,4 +1,13 @@
 {
+  "name": "restaurant-order-system",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "dependencies": {
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
